@@ -11,7 +11,8 @@ I am a university student with great curiosity for the applications of data scie
 - K-Nearest Neighbors for Song Recommendation
 
 ### 🌱 Currently Learning
-
+- AWS Machine Learning Specialty Certification
+- Google Cloud Certification
 <!--
 **cheeze31/cheeze31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
