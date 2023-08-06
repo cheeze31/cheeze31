@@ -12,7 +12,7 @@ I am a university student with great curiosity for the applications of data scie
 
 ### 🌱 Currently Learning
 - AWS Machine Learning Specialty Certification
-- Google Cloud Certification
+- Google Cloud Certifications
 <!--
 **cheeze31/cheeze31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
