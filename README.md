@@ -2,7 +2,7 @@
 I am a university student with great curiosity for the applications of data science and machine learning. My repositories feature R and Python investigations in machine learning concepts and data analysis projects.
 
 ### 👩‍💻 My Projects
-- [Investigation of Least Squared Linear Regression]
+- [Investigation of Least Squares Regression]
 - [Google Data Analytics Capstone Case Study](https://github.com/cheeze31/case_study)
 
 ### 🤔 In Progress Projects
