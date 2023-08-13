@@ -7,7 +7,7 @@ I am a university student with great curiosity for the applications of data scie
 
 ### 🤔 In Progress Projects
 - Random Forest Classification for Song Recommendation
-- Investigation of Gradient Descent
+- Linear Regression with Gradient Descent
 - K-Nearest Neighbors for Song Recommendation
 
 ### 🌱 Currently Learning
